@@ -1,5 +1,10 @@
 # 💫 About Me:
-Formado em Automação industrial,<br>Atualmente cursando  Desenvolvimento de sistemas<br>Cursando explorer rocketseat<br>
+Formado em Automação industrial,
+<br>Formado em Tecnico Desenvolvimento de sistemas
+<br>Cursando Analise e Desenvolvimento de sistemas UTFPR
+<br>Cursando explorer rocketseat
+<br>Cursando B7WEB Laravel
+<br>
 
 
 ## 🌐 Socials:
