@@ -4,6 +4,7 @@ Formado em Automação industrial,
 <br>Cursando Analise e Desenvolvimento de sistemas UTFPR
 <br>Cursando explorer rocketseat
 <br>Cursando B7WEB Laravel
+<br>Residente AGEUNI -UEPG
 <br>
 
 
